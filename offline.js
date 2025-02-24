@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740385107,
+	"version": 1740396660,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,7 +7,6 @@
 		"offlineClient.js",
 		"images/redlightgreenlighthowto-sheet0.png",
 		"images/redlightgreenlighthowto-sheet1.png",
-		"images/redlightgreenlighthowto-sheet2.png",
 		"images/play-sheet0.png",
 		"images/skate-sheet0.png",
 		"images/body-sheet0.png",
@@ -17,6 +16,7 @@
 		"images/dot-sheet0.png",
 		"images/face-sheet0.png",
 		"images/face-sheet1.png",
+		"images/particles.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"icon-16.png",
